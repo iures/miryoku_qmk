@@ -1,11 +1,11 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build Example Dactyl 5x6'
+name: 'Build Example Dactyl 5x6_2_5'
 on:
   - workflow_dispatch
 jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["handwired/dactyl_manuform/5x6"]'
+      keyboard: '["handwired/dactyl_manuform/5x6_2_5"]'
