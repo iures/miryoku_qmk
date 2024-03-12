@@ -8,4 +8,4 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["handwired/dactyl_manuform/5x6_2_5"]'
+      keyboard: '["handwired/dactyl_manuform/5x6"]'
