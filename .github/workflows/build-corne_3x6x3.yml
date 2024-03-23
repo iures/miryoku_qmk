@@ -10,5 +10,5 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       alphas: '["QWERTY"]'
-      nav: '["invertedt"]'
+      nav: '["vi"]'
       clipboard: '["mac"]'
