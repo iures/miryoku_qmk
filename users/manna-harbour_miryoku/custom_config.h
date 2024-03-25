@@ -15,7 +15,7 @@
 // dual-role key, all within the tapping term, by default the dual-role key
 // will perform its tap action. If the HOLD_ON_OTHER_KEY_PRESS option is
 // enabled, the dual-role key will perform its hold action instead.
-#define HOLD_ON_OTHER_KEY_PRESS
+// #define HOLD_ON_OTHER_KEY_PRESS
 
 // #define COMBO_COUNT 2
 // Set the COMBO_TERM so low that I won't type the keys one after each other during normal typing.
