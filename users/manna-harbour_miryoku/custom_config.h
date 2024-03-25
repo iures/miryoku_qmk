@@ -6,9 +6,8 @@
 #pragma once
 
 #define PERMISSIVE_HOLD
-#define COMBO_TERM 40
 
-#define TAPPING_TERM_PER_KEY
+// #define TAPPING_TERM_PER_KEY
 #define TAPPING_TERM 150
 #define TAPPING_TERM_THUMB 125
 
@@ -19,7 +18,7 @@
 // enabled, the dual-role key will perform its hold action instead.
 #define HOLD_ON_OTHER_KEY_PRESS
 
-#define COMBO_COUNT 2
+// #define COMBO_COUNT 2
 // Set the COMBO_TERM so low that I won't type the keys one after each other during normal typing.
 // They would have be held together intentionally to trigger this.
-#define COMBO_TERM 40
+// #define COMBO_TERM 40
